@@ -37,9 +37,7 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 ### Terminate the server by CONTROL+C
 ### Have fun browsing the fully responsive modern camp traveling app! 
 
-
-
-
+# Prerequisites & Setups
 
 
 
