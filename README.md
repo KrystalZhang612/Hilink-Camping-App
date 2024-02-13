@@ -14,3 +14,13 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
   <img src = "https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/testing-result-hilink/hilink-overview-5.png">&nbsp;
 </p>
 
+
+# Build
+[Method to Run & Test the Project Locally]()<br/> 
+[Prerequisites & Setups]()<br/> 
+[Tags and Topics]()
+
+# Contribution
+[Author]()
+
+# Compatiability
