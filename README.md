@@ -4,3 +4,5 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 ⏬
 
 ### *Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commercial uses on this project by those other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612/) or the authorized users and organizations will be subjected to copyright violation with subsequent legal potential concerns.* 
+
+## Hilink Camping Travel App Overview:
