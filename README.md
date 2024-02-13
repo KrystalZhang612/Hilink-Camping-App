@@ -17,7 +17,7 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 
 # Build
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
-[Prerequisites & Setups]()<br/> 
+[Prerequisites & Setups](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/README.md#prerequisites--setups)<br/> 
 [Tags and Topics]()
 
 # Contribution
@@ -38,6 +38,41 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 ### Have fun browsing the fully responsive modern camp traveling app! 
 
 # Prerequisites & Setups
+create next.JS app using the latest next.JS 14:
+```bash
+npx create-next-app@latest
+```
+Use TypeScript, don’t use ESLint to avoid errors, use Tailwind CSS, don’t need `src/` directory, use App Router, and no need to customize the default import alias.<br/> 
+Locate to the root of the newly created app with the package.json file: 
+```bash
+cd APP_ROOT_DIRECTORY 
+```
+Install Node.JS v18.17.0:
+```bash
+nvm install 18.17.0
+```
+Set Node.JS v18.17.0 as default:
+```bash
+nvm alias default 18.17.0
+```
+Check if the node version is correct:
+```bash
+node -v
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
