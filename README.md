@@ -32,6 +32,13 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 |   code v1.86.1 |   :white_check_mark:              |
 
 # Method to Run & Test the Project Locally
+### Download the entire project folder and open it with any IDE.
+### Start the webserver to test the Hilink Camping App by running: `npm run dev` at http://localhost:3000/
+### Terminate the server by CONTROL+C
+### Have fun browsing the fully responsive modern camp traveling app! 
+
+
+
 
 
 
