@@ -69,6 +69,11 @@ Install ES7 React snippets extension to use `rafce` in tsx files to auto-generat
 [Node.JS npm/npx](https://nodejs.org/en)<br/> 
 [JavaScript](https://www.javascript.com/)<br/> 
 [Tailwind CSS](https://tailwindcss.com/)<br/> 
+[Tailwind CSS IntelliSense Extension](https://github.com/tailwindlabs/tailwindcss-intellisense)<br/> 
+[ES7+ React/Redux/React-Native snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+
+
+
 
 
 
