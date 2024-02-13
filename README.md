@@ -16,7 +16,7 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 
 
 # Build
-[Method to Run & Test the Project Locally]()<br/> 
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups]()<br/> 
 [Tags and Topics]()
 
