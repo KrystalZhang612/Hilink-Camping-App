@@ -21,7 +21,7 @@ Crafted with precision and attention to detail, the Hilink Camp Travelling app s
 [Tags and Topics](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/README.md#tags-and-topics)
 
 # Contribution
-[Author]()
+[Author](https://github.com/KrystalZhang612/Hilink-Camping-App/blob/main/README.md#author)
 
 # Compatiability
 | Version | Supported          |
