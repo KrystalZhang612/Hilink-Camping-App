@@ -71,6 +71,12 @@ Install ES7 React snippets extension to use `rafce` in tsx files to auto-generat
 [Tailwind CSS](https://tailwindcss.com/)<br/> 
 [Tailwind CSS IntelliSense Extension](https://github.com/tailwindlabs/tailwindcss-intellisense)<br/> 
 [ES7+ React/Redux/React-Native snippets Extension](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCODE" width = "60" height = "60" />&nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "REACTJS" width = "60" height = "60" />&nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title = "NODEJS NPM NPX" width = "60" height = "60" />&nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" width = "60" height = "60" />&nbsp; 
+</div>
 
 
 
