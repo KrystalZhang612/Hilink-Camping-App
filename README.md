@@ -59,9 +59,16 @@ Check if the node version is correct:
 ```bash
 node -v
 ```
+Install ES7 React snippets extension to use `rafce` in tsx files to auto-generate templates. 
 
 # 🛠️ Developing Languages, Tools, and Techniques Needed
 
+[Next.JS 14](https://nextjs.org/)<br/> 
+[Vscode 1.85](https://code.visualstudio.com/updates/v1_85)<br/> 
+[ReactJS](https://react.dev/)<br/> 
+[Node.JS npm/npx](https://nodejs.org/en)<br/> 
+[JavaScript](https://www.javascript.com/)<br/> 
+[Tailwind CSS](https://tailwindcss.com/)<br/> 
 
 
 
